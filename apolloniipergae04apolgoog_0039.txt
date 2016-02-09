@@ -1,0 +1,38 @@
+ὦ LOCORUhlPLANORUM
+
+tur aequales sunt anguli F AG, BAC, addito vel dempto communi,
+aequales erunt anguli F A B, GA C; et propter aequalia refiangula
+F AG, BAC, erit F A ad AB, ut AC nd AG. quare [6. 6.] aequian-
+gula sunt F AB, GAC triangula, et an-
+gulus ACG aequalis erit angulo resto
+AFB; positione autem data est AF [30.
+dat.], ct magnitudine [25. 26. dat.], et
+datum est reetangulum F A G; quare
+Α G magnitudine data [57. dat.], sed et
+politione propter datum angulum F AG
+[29.<lat.]; datum igitur cst punRum G
+[27. dat.]. Quoniam igitur a duobus datis puustis A, G duflae sunt
+AC, GC dutum comprehendentes angulum ACG, tanget punstum C
+circumferentiam positione datam, per Prop. 2. hujus.
+
+ 
+
+Componetur vero ita.
+
+A dato punsto A ducatur ad positione datam D E perpendicularis
+AF, ducatur etiam AG, ad utrasvis partes reelae AF, faciens tum an-
+gulum F AG aequalem angulo dato, tum rodlangulum F AG aequale
+dato spatio 5 et super diametrum AG describatur circulus, Erit hujus
+circumferentia Imeus quaesitus. Ducatur enim a punsso A ad restam
+DE quaevis AB, et fiat angulus BA H aequalis ipsi FA G; occurret
+A H circumferentiae rursus iu puneto quodam C, et rectangulum
+ΒΑΕ aequale erit ipsi FAG. Nam propter aequales angulos F AG,
+BAH, aequales erunt F AB, GAH; qnare acutus est angulus GAH,
+igitur secabit circulum resta AH; secet in C, et jungatur GC ς aequi-
+angula igitur sunt triangula FAB, GAC, est enim angulus ACG in se-
+micirculo aequalis angulo resto AF B; Ergo ut AF ad AB, ita est AC
+vad A G, et reetangulum B A C aequale erit ipfi F AG, hoc estspatio
+dato.
+
+Pnoa
+

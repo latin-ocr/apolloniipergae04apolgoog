@@ -1,0 +1,41 @@
+10 LOCORUM PLANORUM.
+
+sed et positione [29. dat.]; datum propterea est punstum G. Et pro.
+pter aequiangula triangula est BD ad CG, ut AB ad AC; data igitur
+est ratio BD ad CG; et data est BD magnitudine, quare et CG. Qo-
+niam igitur a dato punCto G dufka cst G C magnitudine data, tanget
+punstum C circumferentiam positione datam, per Prop. 1. hujus.
+
+Componetur vero ita.
+
+A dato punsto A ducatur AD ad centrum circuli positione dati,
+occuratque circumferentiae in E‚et ducatur AF faciens angulum DAF
+aequalem angulo dato, ita sc. ut ad quas partes reciae AB ducenda
+cst AC, fit AF ad easdem partes reciae AD ς et in AF sumatur AG
+ad quam AD datam habet rationem ut vero AD ad AG, im fiat DE
+ad GF, et centro G inter-vano GF
+describatur circulus: Erit hujus cir-
+cumferentia Locus quaefims, sc. fi
+a punclo A ducatur ad circumferen-
+tiam cujus centrum est D rech quee—
+vis AB, et dueatur AH faciens an-
+gulum BAH aequalem angulo DAG
+ita sc. ut AB, ΑΗ fint ad easdem par- E
+tes testarum AD, AG ; occurret AH
+circumferentiae alterius circuli in
+puncto quodam C, et erit AB ad AC,
+ut AD ad AG, dummodo sc. sumantur eae intersefflonee B, C vel b,
+c quae suut ad easdem circulorum partes ratione punffl A. Qoninm
+enim est AD nd AG, ut DE ad G F, fi punclum A fuerit intra circu-
+lum BE, vel in ipfius circumferentia, hoc est fi DA minor vel aequa-
+lis fuen't ipfi DE, erit GA minor vel aequalis ipsu GF, hoc est pun-
+stum A erit intra circulum CF vel in ejus circumferentia, et propte-
+rea'quacvis recha a pimsto A dufta occurret circuio cF. Si vero
+punemm A fuerit extra circulum BE, fimiliter ostendetur ipsum effe
+exirm circulum CF; etquoninm angulus BAH aequalis est angulo
+DAG, hoc est, per Lemma, angulo ΚΑΙ. centenno restis contingen·-
+
+tibus
+
+   
+
